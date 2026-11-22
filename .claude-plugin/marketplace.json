@@ -1,0 +1,1 @@
+{"name": "adace", "description": "AdAce Ads plugins for Claude", "owner": {"name": "AdAce", "url": "https://ads.adace.website/en"}, "plugins": [{"name": "adace-ads", "source": "./adace-ads", "description": "Read your ad accounts, find wasted spend and propose changes that you approve, from Claude."}]}
